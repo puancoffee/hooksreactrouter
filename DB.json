@@ -1,0 +1,40 @@
+{
+    "article": [
+        {
+            "id": 1,
+            "title": "Learning json-server",
+            "author": "amirul",
+            "description": "Ea ad fugiat proident amet ut elit. Commodo proident et ad esse dolore. Fugiat enim Lorem enim ea in est nisi proident dolore in adipisicing minim cillum cupidatat. Ullamco ea incididunt consectetur irure sint nulla. Eu irure elit magna nostrud aliquip ullamco minim labore anim officia et deserunt. Ea pariatur fugiat laborum id officia amet adipisicing ut occaecat."
+        },
+        {
+            "id": 2,
+            "title": "Learning json-server",
+            "author": "amirul",
+            "description": "Ea ad fugiat proident amet ut elit. Commodo proident et ad esse dolore. Fugiat enim Lorem enim ea in est nisi proident dolore in adipisicing minim cillum cupidatat. Ullamco ea incididunt consectetur irure sint nulla. Eu irure elit magna nostrud aliquip ullamco minim labore anim officia et deserunt. Ea pariatur fugiat laborum id officia amet adipisicing ut occaecat."
+        },
+        {
+            "id": 3,
+            "title": "Learning json-server",
+            "author": "amirul",
+            "description": "Ea ad fugiat proident amet ut elit. Commodo proident et ad esse dolore. Fugiat enim Lorem enim ea in est nisi proident dolore in adipisicing minim cillum cupidatat. Ullamco ea incididunt consectetur irure sint nulla. Eu irure elit magna nostrud aliquip ullamco minim labore anim officia et deserunt. Ea pariatur fugiat laborum id officia amet adipisicing ut occaecat."
+        },
+        {
+            "id": 4,
+            "title": "Learning json-server",
+            "author": "amirul",
+            "description": "Ea ad fugiat proident amet ut elit. Commodo proident et ad esse dolore. Fugiat enim Lorem enim ea in est nisi proident dolore in adipisicing minim cillum cupidatat. Ullamco ea incididunt consectetur irure sint nulla. Eu irure elit magna nostrud aliquip ullamco minim labore anim officia et deserunt. Ea pariatur fugiat laborum id officia amet adipisicing ut occaecat."
+        },
+        {
+            "id": 5,
+            "title": "Learning json-server",
+            "author": "amirul",
+            "description": "Ea ad fugiat proident amet ut elit. Commodo proident et ad esse dolore. Fugiat enim Lorem enim ea in est nisi proident dolore in adipisicing minim cillum cupidatat. Ullamco ea incididunt consectetur irure sint nulla. Eu irure elit magna nostrud aliquip ullamco minim labore anim officia et deserunt. Ea pariatur fugiat laborum id officia amet adipisicing ut occaecat."
+        },
+        {
+            "id": 6,
+            "title": "Learning json-server",
+            "author": "amirul",
+            "description": "Ea ad fugiat proident amet ut elit. Commodo proident et ad esse dolore. Fugiat enim Lorem enim ea in est nisi proident dolore in adipisicing minim cillum cupidatat. Ullamco ea incididunt consectetur irure sint nulla. Eu irure elit magna nostrud aliquip ullamco minim labore anim officia et deserunt. Ea pariatur fugiat laborum id officia amet adipisicing ut occaecat."
+        }
+    ]
+}
